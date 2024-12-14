@@ -4,6 +4,11 @@
     "description": "VSCode 扩展 sshBox 专用依赖库",
     "main": "src/index.js",
     "type": "module",
+    "private": false,
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/chenbimo/ssh2Box"
