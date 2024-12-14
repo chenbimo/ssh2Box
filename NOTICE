@@ -1,0 +1,10 @@
+删除了 package.json 文件中的 devDependencies 相关依赖
+删除了 examples 目录和其下的文件
+删除了 test 目录和其下的文件
+删除了 validation 目录和其下的文件
+删除了 .eslintrc.json 文件
+删除了 .mocharc.cjs 文件
+删除了 .nycrc.json 文件
+删除了 CHANGELOG.org 文件
+删除了 README.org 文件
+删除了 test-env-template 文件
