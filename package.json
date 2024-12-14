@@ -1,5 +1,5 @@
 {
-    "name": "sshBox",
+    "name": "ssh2box",
     "version": "1.0.0",
     "description": "VSCode 扩展 sshBox 专用依赖库",
     "main": "src/index.js",
